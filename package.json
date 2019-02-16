@@ -1,0 +1,10 @@
+{
+  "name": "vue-learn",
+  "version": "1.0.0",
+  "description": "Just Codes",
+  "main": "index.js",
+  "repository": "https://github.com/wanken/vue-learn.git",
+  "author": "waver",
+  "license": "MIT",
+  "private": false
+}
